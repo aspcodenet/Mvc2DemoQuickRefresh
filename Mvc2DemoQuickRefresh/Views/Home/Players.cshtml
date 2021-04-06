@@ -1,0 +1,19 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model Mvc2DemoQuickRefresh.ViewModels.HomePlayersViewModel
+
+
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+
+<table class="table-dark">
+    <tr><th>Namn</th><th>Jersey</th></tr>
+    @foreach (var item in Model.Items)
+    {
+        <tr><td>@item.Name</td><td>@item.Jersey</td></tr>
+    }
+
+</table>

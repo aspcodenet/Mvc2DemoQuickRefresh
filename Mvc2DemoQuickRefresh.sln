@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc2DemoQuickRefresh", "Mvc2DemoQuickRefresh\Mvc2DemoQuickRefresh.csproj", "{0601ABF8-8F7F-4523-B6A2-4427373045EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0601ABF8-8F7F-4523-B6A2-4427373045EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0601ABF8-8F7F-4523-B6A2-4427373045EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0601ABF8-8F7F-4523-B6A2-4427373045EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0601ABF8-8F7F-4523-B6A2-4427373045EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5446EC44-3A1C-4039-A787-7D9A0142535F}
+	EndGlobalSection
+EndGlobal
